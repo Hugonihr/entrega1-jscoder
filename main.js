@@ -41,4 +41,4 @@ while (deseaBuscar) {
     }
     deseaBuscar = confirm("¿Quieres buscar otra fruta?");
 }
-console.log("Gracias por usar el buscador de frutas 🍎🍌🍊");
+console.log("Gracias por usar el buscador de frutas");
